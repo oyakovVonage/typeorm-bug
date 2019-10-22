@@ -10,7 +10,7 @@ import Course from './models/Course';
         database: 'postgres',
         schema: 'public',
         host: 'localhost',
-        port: 7654,
+        port: 5432,
         username: 'postgres',
         password: 'password',
         synchronize: true,
