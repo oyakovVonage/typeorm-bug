@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outDir": "./out",
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "target": "es2017",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "sourceMap": true
+    },
+    "exclude": ["node_modules", "out"]
+}
