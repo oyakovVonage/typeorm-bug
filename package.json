@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "pg": "^7.12.1",
-    "typeorm": "^0.2.16"
+    "typeorm": "^0.2.25"
   }
 }
